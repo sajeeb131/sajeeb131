@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajeeb Sarkar</h1>
 <h3 align="center">Full-stack developer on Javascript and Undergraduate student at United International University.</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?w=826&t=st=1707454777~exp=1707455377~hmac=0fd76dbb940c12002c4454179b29fd094a91b3147a3215a2093c991921640365">
+<img align="center" alt="Coding" width="400" src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?w=826&t=st=1707454777~exp=1707455377~hmac=0fd76dbb940c12002c4454179b29fd094a91b3147a3215a2093c991921640365">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajeeb131&label=Profile%20views&color=0e75b6&style=flat" alt="sajeeb131" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajeeb131" alt="sajeeb131" /></a> </p>
