@@ -25,15 +25,15 @@
 - I am a **Software Engineer** 
 - I am passionate about **Full-Stack Web Development**,
 - Currently working with **MERN Stack**,
-- I try keeping upto date with new **technologies💻**
+- I try to stay up to date with new **technologies💻**
 - and I love **problem solving**.
 
 <img width='340' height='340' align="right"  src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_960_720.jpg" alt="coding-image" />
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am currently working at **Clarex Ltd.** as **Software Developer.**
-- 💻 Major is **Computer Science and Engineering** from **United International University**.
+- 👨‍🏛Currently working at **Clarex Ltd.** as **Software Developer.**
+- 💻 Major is **Computer Science and Engineering**.
 - 🌱 I'm currently learning **DevOps**. 
 - 🤔 My hobbies are **playing chess and video games**.
 - 💬 Have any questions about web development?, **just ask me**.
