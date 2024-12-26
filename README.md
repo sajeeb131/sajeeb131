@@ -50,9 +50,9 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
 
-<img align="right"  src="[https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true](https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_960_720.jpg)" alt="coding-image" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="coding-image" />
 
-**Other Technologies**
+!**Other Technologies**
 
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" alt="React">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node.svg" alt="Node.js">
@@ -62,14 +62,14 @@
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" alt="MySQL">
 
 
-**Tools and interests**
+!**Tools and interests**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" alt="GitHub">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg" alt="Docker">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg" alt="Stack Overflow">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg" alt="YouTube">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg" alt="FreeCodeCamp">
+<img height="20" src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_960_720.jpg" alt="coding-image" align="right">
 
 
 <!--END_SECTION:waka-->
