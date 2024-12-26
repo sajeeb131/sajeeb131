@@ -52,25 +52,22 @@
 
 !**Other Technologies**
 
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" alt="React">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node.svg" alt="Node.js">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg" alt="Docker">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tailwind.svg" alt="Tailwind CSS">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" alt="MongoDB">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" alt="MySQL">
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" alt="React"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node.svg" alt="Node.js"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg" alt="Docker"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tailwind.svg" alt="Tailwind CSS"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" alt="MongoDB"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" alt="MySQL"></code>
 
 !**Tools and interests**
 
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" alt="GitHub">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg" alt="Docker">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg" alt="Stack Overflow">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg" alt="YouTube">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg" alt="FreeCodeCamp">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg" alt="W3C">
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" alt="GitHub"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg" alt="Docker"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg" alt="Stack Overflow"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg" alt="YouTube"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg" alt="FreeCodeCamp"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg" alt="W3C"></code>
 
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg" alt="Stack Overflow">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vscode.svg" alt="VS Code"> 
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/figma.svg" alt="Figma"> 
 
 <img height="20" src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_960_720.jpg" alt="coding-image" align="right">
 
