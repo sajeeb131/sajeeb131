@@ -28,7 +28,7 @@
 - I try keeping upto date with new **technologies💻**
 - and I love **problem solving**.
 
-<img width='200' height='200' align="right"  src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_960_720.jpg" alt="coding-image" />
+<img width='400' height='400' align="right"  src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_960_720.jpg" alt="coding-image" />
 
 **Talking about Personal Stuffs:**
 
