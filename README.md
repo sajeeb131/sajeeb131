@@ -50,16 +50,16 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+<img align="right"  src="[https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true](https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_960_720.jpg)" alt="coding-image" />
 
 **Other Technologies**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/reactjs.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/nodejs.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tailwinds.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongoDB.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" alt="React">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node.svg" alt="Node.js">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg" alt="Docker">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tailwinds.svg" alt="Tailwind CSS">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongoDB.svg" alt="MongoDB">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" alt="MySQL">
 
 
 **Tools and interests**
