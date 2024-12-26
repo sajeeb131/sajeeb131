@@ -28,7 +28,7 @@
 - I try keeping upto date with new **technologies💻**
 - and I love **problem solving**.
 
-<img size={400} align="right"  src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_960_720.jpg" alt="coding-image" />
+<img width='200' height='200' align="right"  src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_960_720.jpg" alt="coding-image" />
 
 **Talking about Personal Stuffs:**
 
@@ -43,12 +43,12 @@
 
 **Programing Languages and databases**  
 
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg" alt="JavaScript">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg" alt="HTML5">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg" alt="CSS3">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg" alt="Java">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg" alt="C">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg" alt="Python">
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg" alt="JavaScript"><code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg" alt="HTML5"><code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg" alt="CSS3"><code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg" alt="Java"><code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg" alt="C"><code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg" alt="Python"><code>
 
 !**Other Technologies**
 
@@ -68,8 +68,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg" alt="FreeCodeCamp"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg" alt="W3C"></code>
 
-
-<img height="20" src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_960_720.jpg" alt="coding-image" align="right">
 
 
 <!--END_SECTION:waka-->
